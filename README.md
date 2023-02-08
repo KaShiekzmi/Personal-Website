@@ -1,4 +1,4 @@
-# Perosanl-Webpage
+# Personal-Webpage
 I am Kashif Abbas Kazmi, a future Software Engineer. This website is a platform for me to share my thoughts, experiences, and achievements with the world. I have always been passionate about Software Engineering, and I believe that through this website, I can connect with like-minded individuals and learn from each other.
 
 From my website, you can find information about my background, skills, and projects. I have also included a blog section where I will be sharing my insights and ideas on various topics. This website will be regularly updated, so be sure to check back often for new content.
